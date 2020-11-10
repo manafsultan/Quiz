@@ -62,3 +62,8 @@ button:hover{
   font-size: 1.7rem;
   text-decoration: underline;
 }
+
+button:focus {
+  background-color: #2288ee;
+  outline: none;
+}
